@@ -1,0 +1,28 @@
+
+*{padding: 0;
+	margin: 0;
+		}
+#menu { font-family: garamond; 
+	font-size: 20pt;
+	 text-decoration: none;
+	 text-align: center;}
+
+	a{text-decoration:none;
+	color: #000000
+	}
+
+#apertura {
+	font-size: 30pt;
+	 }
+.frase { text-align: center;
+	}
+.nombre { text-align: right;
+
+		}
+.imagenes { display:inline-block;
+	}
+	.imagenes p {text-align:center;
+		}
+		
+#columna {display: inline-block;
+	}

@@ -1,0 +1,22 @@
+div {border-style: solid;
+	border-radius: 100%;
+	display: inline-block;
+	border-width: 100pt;
+	box-shadow: 50%;
+
+}
+
+#rojo {
+	background-color: red;
+	border-color: red;
+}
+
+#verde {
+	background-color: green;
+	border-color: green;
+}
+
+#azul{
+	background-color: blue;
+	border-color: blue;
+}

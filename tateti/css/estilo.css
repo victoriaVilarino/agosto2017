@@ -1,0 +1,35 @@
+*{
+	margin: 10px;
+	padding: 2px;
+	background-image: url(fondo.jpg);
+	text-align: center;
+
+}
+
+.casillero{
+	display: inline-block;
+	border-style: solid;
+	border-color: black;
+	border-width: 10pt;
+	background-image: none;
+	border-radius: 10%;
+}
+.casillero img {
+	width: 200px;
+	height: 200px;
+	background: none;
+
+}
+
+.casillero h2{
+	display: none;
+}
+
+.verde {
+	background-color: white;
+}
+
+img:hover {
+	opacity: 0.5;
+	background-color: black;
+}
